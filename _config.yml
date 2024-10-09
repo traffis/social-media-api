@@ -1,0 +1,5 @@
+theme: jekyll-theme-minimal
+
+logging:
+  level:
+    com.team3.twitterclone: DEBUG
